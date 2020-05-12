@@ -13,3 +13,4 @@
   
 ## Final result:
 ### As a final result, we will generate a figure that visually compares DNAs.
+![alt text](https://github.com/Vitorrrocha/ComparingRnaSequences/blob/master/pic.PNG?raw=true)
