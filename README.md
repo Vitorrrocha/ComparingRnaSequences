@@ -4,7 +4,7 @@
 
 ### Main lib used was **matplotlib.**
 
-#### Used data
+#### Used data:
   * Human 18S rRNA gene, complete
     *  **source: ** https://www.ncbi.nlm.nih.gov/nuccore/M10098.1?report=fasta
   
