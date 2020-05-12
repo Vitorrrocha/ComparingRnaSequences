@@ -11,3 +11,5 @@
   * Escherichia coli strain U 5/41 16S ribosomal RNA gene, partial sequence
     *  **source: ** https://www.ncbi.nlm.nih.gov/nuccore/NR_024570.1?report=fasta
   
+## Final result
+### As a final result, we will generate a figure that visually compares DNAs.
