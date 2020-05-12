@@ -2,7 +2,7 @@
 
 ## Case study: comparing ribosomal RNA sequences between humans and bacteria.
 
-### * Using **matplotlib**
+### * Main lib used was **matplotlib.**
 
 #### * Used data
   * Human 18S rRNA gene, complete
