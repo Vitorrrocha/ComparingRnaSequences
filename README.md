@@ -12,5 +12,5 @@
     *  **source:** https://www.ncbi.nlm.nih.gov/nuccore/NR_024570.1?report=fasta
   
 ## Final result:
-### As a final result, we will generate a figure that visually compares DNAs.
+### As a final result, was generated a figure that visually compare DNAs.
 ![alt text](https://github.com/Vitorrrocha/ComparingRnaSequences/blob/master/pic.PNG?raw=true)
